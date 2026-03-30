@@ -10,7 +10,7 @@ This Python program reads employee sales information from a data file and genera
 - Counts full-time and part-time employees
 - Calculates total commissions paid
 
-## Technologies Used
+## Language Used
 - Python
 
 ## Skills Demonstrated
